@@ -1,0 +1,1 @@
+Testing input to a file added to git
